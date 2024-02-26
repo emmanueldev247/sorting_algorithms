@@ -4,3 +4,5 @@ _*
 *.out
 .*
 *main.c
+print_array.c
+print_list.c
